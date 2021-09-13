@@ -4,5 +4,6 @@ const client = new Discord.Client();
 const webhook = new Discord.Webhook();
 
 //import botdata includes tokens, webhook urls
-const token = require("./botdata.json");
+const token = require("../botdata.json");
 
+console.log("Succesfully Initiated");

@@ -1,1 +1,1 @@
-screen -d -m -S Discordbot_Test bash -c '.src/botinit.sh'
+screen -d -m -S Discordbot_Test .src/botinit.sh

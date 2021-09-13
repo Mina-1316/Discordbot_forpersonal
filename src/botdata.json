@@ -1,0 +1,14 @@
+{
+    "botname" : "your bot's name here",
+    "token" : "your bot's token here",
+
+    "webhook":[
+        {
+            "name":"Webhook 1",
+            "url":"webhook's url here",
+            "description":"webhook's description here"
+        }
+
+    ]
+
+}

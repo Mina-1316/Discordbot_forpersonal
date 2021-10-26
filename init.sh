@@ -1,1 +1,0 @@
-screen -d -m -S Discordbot_Test .src/botinit.sh

@@ -1,0 +1,16 @@
+{
+    "botname" : "",
+    "token" : "",
+    "publickey" : "",
+    "appid" : "",
+
+    "webhook":[
+        {
+            "name":"Webhook 1",
+            "url":"webhook's url here",
+            "description":"webhook's description here"
+        }
+
+    ]
+
+}

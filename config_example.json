@@ -1,0 +1,36 @@
+{
+    "loggerConfig": {
+        "name": "",
+        "cstreams": [
+            {
+                "level": ""
+            }
+        ],
+        "fstreams": [
+            {
+                "type": "",
+                "level": "",
+                "path": "",
+                "period": "",
+                "count": 1
+            },
+            {
+                "type": "",
+                "level": "",
+                "path": "",
+                "period": "",
+                "count": 1
+            }
+        ]
+    },
+
+    "appConfig":{
+        "id": "",
+        "token": "",
+        "testGuildID": ""
+    },
+
+    "projectConfig":{
+         
+    }
+}
